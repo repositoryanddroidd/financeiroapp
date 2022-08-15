@@ -7,3 +7,5 @@
     -- FINANCEIRO1449161508202201FEATURE
 
         - Implementar Tela de Monitoramento
+
+        npm instal ng2-charts chart.js
